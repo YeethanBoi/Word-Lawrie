@@ -2,9 +2,13 @@
 
 Word Lawrie is a fun and challenging word ladder game. In this game, you start with a word and must transform it into another word by changing one letter at a time, with each intermediate step forming a valid English word. Can you make it from "cat" to "dog" in just a few steps?
 
-![Word Lawrie Game Showcase](https://media.giphy.com/media/N3N12wVi2JmdapwI6h/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/N3N12wVi2JmdapwI6h/giphy.gif" alt="Word Lawrie Game Showcase">
+</div>
 
-![Word Lawrie Logo](https://i.imgur.com/dq1KlC5.png)
+<div align="center">
+  <img src="https://i.imgur.com/dq1KlC5.png" alt="Word Lawrie Logo" width="150">
+</div>
 
 ## How to Play
 
