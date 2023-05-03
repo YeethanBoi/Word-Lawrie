@@ -6,9 +6,6 @@ Word Lawrie is a fun and challenging word ladder game. In this game, you start w
   <img src="https://media.giphy.com/media/N3N12wVi2JmdapwI6h/giphy.gif" alt="Word Lawrie Game Showcase">
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dq1KlC5.png" alt="Word Lawrie Logo" width="150">
-</div>
 
 ## How to Play
 
@@ -22,6 +19,10 @@ Try out the game for yourself with our [live demo](https://word-lawrie.herokuapp
 
 We welcome contributions to Word Lawrie! If you have an idea for a new feature or find a bug, please [open an issue](https://github.com/your-username/word-lawrie/issues) or [submit a pull request](https://github.com/your-username/word-lawrie/pulls).
 
-## Credits
+## Other games and apps
 
-Word Lawrie was created by [Your Name](https://github.com/your-username) and [Collaborator's Name](https://github.com/collaborator-username).
+Try out Hablits [here](https://hablits.000webhostapp.com/).
+
+<div align="center">
+  <img src="https://i.imgur.com/dq1KlC5.png" alt="Word Lawrie Logo" width="150">
+</div>
